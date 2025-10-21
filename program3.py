@@ -6,3 +6,6 @@ for i in range(10):
 def simul():
 	# this function allow us to make a simulation of normal random
 	# variable!
+
+def dice():
+	return True

@@ -6,3 +6,6 @@ def history(population):
 		this function keep the incumbent or the more powerful
 		individual in the population"""
 	pas
+# our genetic algorithm can start here
+# there is another metaheuristics that can help to 
+# improve the results!

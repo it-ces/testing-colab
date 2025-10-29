@@ -17,3 +17,10 @@ CS (Computer Scince) mathematics or another branches of
 technology are very important to take decisiones tech is one
 of the major challenges in my carrer technological staff requiere
 some principles that we can get in different ways
+
+# Econ section
+game theory play an important role in mathematics or another branches,
+we can make a lot of principles that we can offer a new insghts,
+between them we can make a good ideal of wHAT or what not,
+all this could be very informative or important to translate to spanishn 
+language

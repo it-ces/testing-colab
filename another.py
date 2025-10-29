@@ -11,3 +11,9 @@ given that this editor is thinked to make good this.
 # SECTION
 in this section we are going to cover statistics or another branch of
 mathematics what is the fuck problem
+
+# Python section
+CS (Computer Scince) mathematics or another branches of
+technology are very important to take decisiones tech is one
+of the major challenges in my carrer technological staff requiere
+some principles that we can get in different ways

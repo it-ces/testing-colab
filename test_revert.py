@@ -9,3 +9,8 @@ def f2():
 
 def f3():
 	pass
+
+
+include random noisy text! all this is a jumble of ideas
+a programmer is a kind of professional that take all this information
+and put in a programmer!

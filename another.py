@@ -8,10 +8,6 @@ TO WORK IN DIFFERENT CONTEXTS OR TECHIQUES
 given that this editor is thinked to make good this.
 
 
-# SECTION
-in this section we are going to cover statistics or another branch of
-mathematics what is the fuck problem
-
 # Python section
 CS (Computer Scince) mathematics or another branches of
 technology are very important to take decisiones tech is one

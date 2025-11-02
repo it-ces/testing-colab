@@ -1,3 +1,4 @@
-Onix
-charizard
+charmander
+squirtle
 PIKACHU
+blastoise

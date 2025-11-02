@@ -1,3 +1,4 @@
 charmander
-charizard
+squirtle
 PIKACHU
+blastoise

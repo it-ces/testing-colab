@@ -1,7 +1,7 @@
 come as you are,
 as you were, 
 don't be late
-memories, 
-memories,
-memories,
-
+memory, 
+(not inteligible),
+memories
+ahhhh nirvana song!
